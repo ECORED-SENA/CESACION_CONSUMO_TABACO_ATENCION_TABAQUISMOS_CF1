@@ -30,16 +30,22 @@
             figure
               img(src='@/assets/curso/tema3/img02.png')
           .tarjeta.color-primario.p-3(x="10%" y="22%")
+            .h4 Monitor tobacco use and prevention policies.
             p Vigilar el consumo de tabaco.
           .tarjeta.color-primario.p-3(x="23%" y="22%")
+            .h4 Protect people from tobacco smoke
             p Proteger a la población del humo de tabaco.
           .tarjeta.color-primario.p-3(x="42%" y="22%")
+            .h4 Offer help to quit tobacco use
             p Ofrecer ayuda para el abandono del tabaco.
           .tarjeta.color-primario.p-3(x="60%" y="22%")
+            .h4 Warn about the dangers of tobacco
             p Advertir de los peligros del tabaco.
           .tarjeta.color-primario.p-3(x="77%" y="22%")
+            .h4 Enforce bans on tobacco advertising, promotion and sponsorship
             p Hacer cumplir las prohibiciones sobre publicidad, promoción y patrocinio.
           .tarjeta.color-primario.p-3(x="94%" y="22%")
+            .h4 Raise taxes on tobacco
             p Aumentar los impuestos al tabaco.
     
     .h4 Marco político y normativo en Colombia
