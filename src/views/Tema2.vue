@@ -45,7 +45,7 @@
             h2 Epidemiología del tabaquismo en el mundo 
           p.mb-4 El tabaco es el único producto que literalmente puede ocasionar la muerte a la mitad de sus consumidores y generar daño a las personas expuestas al humo de segunda mano, (incluyendo las mascotas expuestas).
           a.boton.me-3.indicador__container(
-            :href="obtenerLink('/downloads/prueba.pdf')"
+            :href="obtenerLink('/downloads/Epidemiologia.pdf')"
             target="_blank"
             type="application/pdf"
             @mouseover="mostrarIndicador = false"

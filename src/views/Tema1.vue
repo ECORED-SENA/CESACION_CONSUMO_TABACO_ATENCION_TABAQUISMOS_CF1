@@ -181,7 +181,7 @@
             h2 Efectos para la salud 
           p.mb-4 A continuación, se describirán algunos de los efectos para la salud que pueden generar otros productos derivados del tabaco:
           a.boton.me-3.indicador__container(
-            :href="obtenerLink('/downloads/prueba.pdf')"
+            :href="obtenerLink('/downloads/Efectos_salud.pdf')"
             target="_blank"
             type="application/pdf"
             @mouseover="mostrarIndicador = false"
@@ -238,7 +238,7 @@
             p Linfoma
             p Leucemia
             p Asma   
-
+    <br><br><br><br><br>
 </template>
 
 <script>
