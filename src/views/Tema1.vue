@@ -199,46 +199,62 @@
 
     .row.justify-content-center.mb-4
       .col-lg-6
-        ImagenInfografica.color-acento-botones.mb-5
-          template(v-slot:imagen)
-            figure
-              img(src='@/assets/curso/tema1/img14.png')
+        .tarjeta.flip-card
+          .tarjeta.flip-card-inner
+            .tarjeta.flip-card-front
+              img(src='@/assets/curso/tema1/img14.png' alt='Avatar')
+            .tarjeta.flip-card-blue.p-4
+              .h4.text-white Evidencia suficiente:
+              p.text-white.mb-4
+                | Enfermedad arterial coronaria
+                br
+                | Cáncer de pulmón
+                br
+                | Efectos reproductivos en la mujer
 
-          .tarjeta.color-acento-contenido.p-3(x="7%" y="10%")
-            strong Evidencia suficiente:
-            p Enfermedad arterial coronaria
-            p Cáncer de pulmón
-            p.mb-4 Efectos reproductivos en la mujer
-
-            strong Evidencia sugestiva:
-            p Accidente cerebrovascular
-            p Cáncer de seno paranasal
-            p Cáncer de mama
-            p Ateroesclerosis
-            p Enfermedad pulmonar obstructiva crónica, síntomas respiratorios crónicos, asma, función pulmonar alterada
-            p Parto prematuro
-
+              .h4.text-white Evidencia sugestiva:
+              p.text-white.mb-4
+                | Accidente cerebrovascular
+                br
+                | Cáncer de seno paranasal
+                br
+                | Cáncer de mama
+                br
+                | Ateroesclerosis
+                br
+                | Enfermedad pulmonar obstructiva crónica, síntomas respiratorios crónicos, asma, función pulmonar alterada
+                br
+                | Parto prematuro
       .col-lg-6
-        ImagenInfografica.color-acento-botones.mb-5
-          template(v-slot:imagen)
-            figure
-              img(src='@/assets/curso/tema1/img15.png')
+        .tarjeta.flip-card
+          .tarjeta.flip-card-inner
+            .tarjeta.flip-card-front
+              img(src='@/assets/curso/tema1/img15.png' alt='Avatar')
+            .tarjeta.flip-card-red.p-4
+              .h4.mb-4 Evidencia suficiente:
+              p.mb-4
+                | Enfermedad del oído medio
+                br
+                | Síntomas respiratorios como tos y resuello
+                br
+                | Alteración de la función pulmonar
+                br
+                | Síndrome infantil de muerte súbita (SIMS)
+                br
+                | Enfermedad respiratoria baja, incluidas infecciones
+                br
+                | Bajo peso al nacer
 
-          .tarjeta.color-primario.p-3(x="7%" y="10%")
-            strong Evidencia suficiente:
-            p Enfermedad del oído medio
-            p Síntomas respiratorios como tos y resuello
-            p Alteración de la función pulmonar
-            p Síndrome infantil de muerte súbita (SIMS)
-            p Enfermedad respiratoria baja, incluidas infecciones
-            p Bajo peso al nacer
+              .h4 Evidencia sugestiva:
+              p.mb-4
+                | Tumores cerebrales
+                br
+                | Linfoma
+                br
+                | Leucemia
+                br
+                | Asma
 
-            strong Evidencia sugestiva:
-            p Tumores cerebrales
-            p Linfoma
-            p Leucemia
-            p Asma   
-    <br><br><br><br><br>
 </template>
 
 <script>
