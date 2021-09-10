@@ -78,11 +78,11 @@
               img(src='@/assets/curso/tema3/img03.svg')
             .col-md-6.mb-4.mb-md-0
               p.text-small Resolución 3280 de 2018 mediante la cual se adoptan los lineamientos técnicos y operativos de la RIA de promoción y mantenimiento de la salud y la RIA para la población materno perinatal y se establecen las directrices para su operación. En esta ruta se debe identificar el tabaquismo, brindar un consejo breve y derivar para su atención y control.
-          .row(numero="2020" titulo="Directrices para desarrollar programas para la cesación del consumo de tabaco")
+          .row(numero="2020" titulo="Directrices para desarrollar programas para la cesación del consumo de tabaco y atención del tabaquismo ")
             .col-md-2
               img(src='@/assets/curso/tema3/img03.svg')
             .col-md-6.mb-4.mb-md-0
-              p.text-small Directrices para desarrollar programas para la cesación del consumo de tabaco y atención del tabaquismo en Colombia Ministerio de Salud y Protección Social, 2020.
+              p.text-small En Colombia Ministerio de Salud y Protección Social, 2020.
           .row(numero="2021" titulo="Resolución 202 de 2021")
             .col-md-2
               img(src='@/assets/curso/tema3/img03.svg')

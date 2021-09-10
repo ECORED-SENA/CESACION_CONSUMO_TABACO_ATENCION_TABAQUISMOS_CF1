@@ -43,7 +43,7 @@
         .col-lg-6
           .titulo-segundo
             h2 Epidemiología del tabaquismo en el mundo 
-          p.mb-4 El tabaco es el único producto que literalmente puede ocasionar la muerte a la mitad de sus consumidores y generar daño a las personas expuestas al humo de segunda mano, (incluyendo las mascotas expuestas).
+          p.mb-4 A continuación, se presentarán algunos datos contundentes que permitirán comprender la magnitud del tabaquismo sobre la salud pública a nivel mundial y nacional:
           a.boton.me-3.indicador__container(
             :href="obtenerLink('/downloads/Epidemiologia.pdf')"
             target="_blank"
@@ -95,18 +95,18 @@
       .h4 2.2 Influencia del tabaquismo en la infección por coronavirus
     
     .row.justify-content-center.mb-4
-      .col-lg-5.mb-4.mb-lg-0
+      .col-lg-6.mb-4.mb-lg-0
+        hr
         .bloque-texto-d.color-primario.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left 
-            h3.text-regular Los fumadores tienen mayor incidencia de resfriados e infecciones respiratorias como las ocasionadas por el virus influenza, neumonías bacterianas y tuberculosis, presentando una mayor posibilidad de complicaciones en las personas con un grado de tabaquismo más alto.
-            
+            h3.text-regular Los fumadores tienen mayor incidencia de resfriados e infecciones respiratorias como las ocasionadas por el virus influenza, neumonías bacterianas y tuberculosis, presentando una mayor posibilidad de complicaciones en las personas con un grado de tabaquismo más alto.  
           .bloque-texto-d__autor 
             .h5.mb-0 Tonnesen, Marott, Nordestgaard,
             .h5.mb-0 Bojesen & Lange, 2019.
               i.fas.fa-quote-right
-      .col-lg-3
-        img(src='@/assets/curso/tema2/img06.svg')
+      .col-lg-4
+        img.imgHG(src='@/assets/curso/tema2/img06.svg')
     
     p.mb-5 En la siguiente tabla se presentan algunas asociaciones entre el consumo de tabaco y la incidencia de cuadros respiratorios:
     
