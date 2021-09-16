@@ -95,9 +95,9 @@
       .h4 2.2 Influencia del tabaquismo en la infección por coronavirus
     
     .row.justify-content-center.mb-4
-      .col-lg-6.mb-4.mb-lg-0
+      .col-lg-5.mb-4.mb-lg-0
         hr
-        .bloque-texto-d.color-primario.p-4
+        .bloque-texto-d.color-primario
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left 
             h3.text-regular Los fumadores tienen mayor incidencia de resfriados e infecciones respiratorias como las ocasionadas por el virus influenza, neumonías bacterianas y tuberculosis, presentando una mayor posibilidad de complicaciones en las personas con un grado de tabaquismo más alto.  

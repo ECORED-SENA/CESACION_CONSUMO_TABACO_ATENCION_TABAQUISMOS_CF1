@@ -26,7 +26,7 @@
   &::before
     background-color: #EDD6D3
     mix-blend-mode: multiply
-    width: 18%
+    width: 16%
     height: 100%
     top: 0
     left: 0
@@ -47,57 +47,65 @@
   background-color: #DCEBF5
   color: #000 !important
 
-.flip-card
+.tarjeta.flip-card
   background-color: transparent
-  border: 1px solid #f1f1f1
   perspective: 1000px
 
-.flip-card-inner
+.tarjeta.flip-card-inner
   position: relative
   width: 100%
-  height: 100%
-  transition: transform 0.8s
+  height: 395px
+  transition: transform 2s
   transform-style: preserve-3d
 
-.flip-card:hover .flip-card-inner
+.tarjeta.flip-card:hover .flip-card-inner
   transform: rotateY(180deg)
 
-.flip-card-front, .flip-card-back
+.tarjeta.flip-card-front, .flip-card-back
   position: absolute
   width: 100%
-  height: 100%
+  height: 395px
   border-radius: 0px
   -webkit-backface-visibility: hidden
   backface-visibility: hidden
 
-.flip-card-front
+.tarjeta.flip-card-front
   background-color: #fff
   color: black
 
-.flip-card-blue
+.tarjeta.flip-card-blue
   background-color: $color-acento-contenido
   color: white
   border-radius: 0px
-  height: 100%
+  height: 395px
   transform: rotateY(180deg)
 
 .flip-card-red
   background-color: $color-primario
   color: black
   border-radius: 0px
-  height: 100%
+  height: 395px
   transform: rotateY(180deg)
 
+.imageTarget
+  width: 624px
+  height: 397px
+
 hr:not([size])
-  background-color: #F58EA0
+  background-color: #F56D85
+  height: 3px
 
 .imgHG
-  height: 94%
+  height: 93%
+  width: 93%
 
 .bloque-texto-d__texto *
   display: unset
 
 .bloque-texto-d i:last-of-type
-  margin-right: 10px
+  margin-right: 5px
+  margin-left: -5px
   vertical-align: top
 
+.bloque-texto-d:before
+  left: 25%

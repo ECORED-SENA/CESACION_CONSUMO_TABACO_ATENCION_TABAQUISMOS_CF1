@@ -198,12 +198,12 @@
     p.mb-4 En el siguiente gráfico se encuentran algunas de las enfermedades relacionadas con la exposición al humo del tabaco ambiental:
 
     .row.mb-4
-      .col-lg-6.d-flex
+      .col-lg-6.mb-4.mb-lg-0
         .tarjeta.flip-card
           .tarjeta.flip-card-inner
             .tarjeta.flip-card-front
-              img(src='@/assets/curso/tema1/img14.png' alt='Avatar')
-            .tarjeta.flip-card-blue.p-4
+              img.imageTarget(src='@/assets/curso/tema1/img14.png' alt='Avatar')
+            .tarjeta.flip-card-blue.p-3
               .h4.text-white Evidencia suficiente:
               p.text-white.mb-4
                 | Enfermedad arterial coronaria
@@ -211,7 +211,6 @@
                 | Cáncer de pulmón
                 br
                 | Efectos reproductivos en la mujer
-
               .h4.text-white Evidencia sugestiva:
               p.text-white.mb-4
                 | Accidente cerebrovascular
@@ -229,8 +228,8 @@
         .tarjeta.flip-card
           .tarjeta.flip-card-inner
             .tarjeta.flip-card-front
-              img(src='@/assets/curso/tema1/img15.png' alt='Avatar')
-            .tarjeta.flip-card-red.p-4
+              img.imageTarget(src='@/assets/curso/tema1/img15.png' alt='Avatar')
+            .tarjeta.flip-card-red.p-3
               .h4.mb-4 Evidencia suficiente:
               p.mb-4
                 | Enfermedad del oído medio
@@ -244,7 +243,6 @@
                 | Enfermedad respiratoria baja, incluidas infecciones
                 br
                 | Bajo peso al nacer
-
               .h4 Evidencia sugestiva:
               p.mb-4
                 | Tumores cerebrales
