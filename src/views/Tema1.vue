@@ -28,21 +28,21 @@
         .row.align-items-center.BG02
           .col-2.BG01.p-3
             img(src='@/assets/curso/tema1/img09.svg')
-          .col-10.p-3
+          .col-10.p-3.mb-0
             h4 Fumar tabaco
             p Consumo de productos de tabaco fumado.
       .col-lg-10.mb-4
         .row.align-items-center.BG02
           .col-2.BG01.p-3
             img(src='@/assets/curso/tema1/img10.svg')
-          .col-10.p-3
+          .col-10.p-3.mb-0
             h4 Consumidor de productos del tabaco (comúnmente denominado fumador)
             p Persona que ha fumado tabaco durante el último mes, sin importar la cantidad, incluso uno.
       .col-lg-10.mb-4
         .row.align-items-center.BG02
           .col-2.BG01.p-3
             img(src='@/assets/curso/tema1/img11.svg')
-          .col-10.p-3
+          .col-10.p-3.mb-0
             h4 Fumador actual
             p Persona que ha consumido cualquier cantidad de tabaco fumado durante el último mes. 
 
@@ -53,68 +53,64 @@
     p.mb-4 Dentro de los efectos para la salud que generan los productos del tabaco sobre las personas consumidoras se encuentran los siguientes:
 
     .row.mb-4
-      .col-lg-4.d-flex.mb-4
-        .cajon.color-gray.p-3
-          ol.lista-ol
-            li 
-              span.text-bold 1. 
-              |  Mayor riesgo de enfermedades, especialmente cardiovasculares, respiratorias y diferentes tipos de cáncer como consecuencia de las sustancias químicas identificadas en el humo del tabaco.
-
-      .col-lg-4.d-flex.mb-4
-        .cajon.color-gray.p-3
-          ol.lista-ol
-            li 
-              span.text-bold 2.
-              | De los tipos de cáncer atribuidos al tabaquismo se encuentran: cáncer pulmonar, cáncer de cabeza y cuello, de boca, faringe, laringe, estómago, páncreas, vejiga, entre otros y algunos tipos de leucemia. En las mujeres el cáncer de cérvix está asociado al tabaquismo.
-      
-      .col-lg-4.d-flex.mb-4
-        .cajon.color-gray.p-3
-          ol.lista-ol
-            li 
-              span.text-bold 3.
-              | De las enfermedades respiratorias asociadas al consumo del tabaco se resaltan: la enfermedad pulmonar obstructiva crónica (EPOC), asma, bronquitis crónica e infecciones respiratorias.
-
-      .col-lg-4.d-flex.mb-4
-        .cajon.color-gray.p-3
-          ol.lista-ol
-            li 
-              span.text-bold 4.
-              | Aumenta la probabilidad de padecer otro tipo de enfermedades como úlcera péptica, aneurisma de la aorta abdominal, alteraciones de la fertilidad, impotencia sexual en los hombres, enfermedad periodontal, entre otras.
-      
-      .col-lg-4.d-flex.mb-4
-        .cajon.color-gray.p-3
-          ol.lista-ol
-            li 
-              span.text-bold 5.
-              | Empeoran los desenlaces clínicos de otras enfermedades como la tuberculosis, las enfermedades mentales, la infección por el virus de la inmunodeficiencia humana (VIH) y el abuso de alcohol.
-
-      .col-lg-4.d-flex.mb-4
-        .cajon.color-gray.p-3
-          ol.lista-ol
-            li 
-              span.text-bold 6.
-              | Puede generar otros síntomas como dolor de garganta, alteración del gusto, mal aliento, envejecimiento prematuro de la piel, dientes amarillos, entre otros.
-      
-      .col-lg-4.d-flex.mb-4
-        .cajon.color-gray.p-3
-          ol.lista-ol
-            li 
-              span.text-bold 7.
-              | En general, los consumidores de productos de tabaco tienen mayor riesgo de morir que los no consumidores. Se ha demostrado que los fumadores viven en promedio 7,5 años menos que los no fumadores.
-
-      .col-lg-4.d-flex.mb-4
-        .cajon.color-gray.p-3
-          ol.lista-ol
-            li 
-              span.text-bold 8.
-              | En las gestantes se ha reportado mayor riesgo de aborto espontáneo, desprendimiento placentario, parto pretérmino, ruptura prematura de membranas y bajo peso al nacer. 
-      
-      .col-lg-4.d-flex.mb-4
-        .cajon.color-gray.p-3
-          ol.lista-ol
-            li 
-              span.text-bold 9.
-              | En niños mayor riesgo de síndrome de muerte súbita del lactante, síntomas respiratorios, infecciones respiratorias, otitis y asma.
+      .col-lg-4.d-flex.mb-4.p-4
+        .row.BG04
+          .col-1.BG03.p-2
+            span.text-bold 1
+          .col-10.mb-0.p-2
+             p  Mayor riesgo de enfermedades, especialmente cardiovasculares, respiratorias y diferentes tipos de cáncer como consecuencia de las sustancias químicas identificadas en el humo del tabaco. 
+      .col-lg-4.d-flex.mb-4.p-4
+        .row.BG04
+          .col-1.BG03.p-2
+            span.text-bold 2
+          .col-10.mb-0.p-2
+             p De los tipos de cáncer atribuidos al tabaquismo se encuentran: cáncer pulmonar, cáncer de cabeza y cuello, de boca, faringe, laringe, estómago, páncreas, vejiga, entre otros y algunos tipos de leucemia. En las mujeres el cáncer de cérvix está asociado al tabaquismo. 
+     
+      .col-lg-4.d-flex.mb-4.p-4
+        .row.BG04
+          .col-1.BG03.p-2
+            span.text-bold 3
+          .col-10.mb-0.p-2
+             p De las enfermedades respiratorias asociadas al consumo del tabaco se resaltan: la enfermedad pulmonar obstructiva crónica (EPOC), asma, bronquitis crónica e infecciones respiratorias. 
+      .col-lg-4.d-flex.mb-4.p-4
+        .row.BG04
+          .col-1.BG03.p-2
+            span.text-bold 4
+          .col-10.mb-0.p-2
+             p Aumenta la probabilidad de padecer otro tipo de enfermedades como úlcera péptica, aneurisma de la aorta abdominal, alteraciones de la fertilidad, impotencia sexual en los hombres, enfermedad periodontal, entre otras. 
+     
+      .col-lg-4.d-flex.mb-4.p-4
+        .row.BG04
+          .col-1.BG03.p-2
+            span.text-bold 5
+          .col-10.mb-0.p-2
+             p Empeoran los desenlaces clínicos de otras enfermedades como la tuberculosis, las enfermedades mentales, la infección por el virus de la inmunodeficiencia humana (VIH) y el abuso de alcohol. 
+      .col-lg-4.d-flex.mb-4.p-4
+        .row.BG04
+          .col-1.BG03.p-2
+            span.text-bold 6
+          .col-10.mb-0.p-2
+             p Puede generar otros síntomas como dolor de garganta, alteración del gusto, mal aliento, envejecimiento prematuro de la piel, dientes amarillos, entre otros. 
+     
+      .col-lg-4.d-flex.mb-4.p-4
+        .row.BG04
+          .col-1.BG03.p-2
+            span.text-bold 7
+          .col-10.mb-0.p-2
+             p En general, los consumidores de productos de tabaco tienen mayor riesgo de morir que los no consumidores. Se ha demostrado que los fumadores viven en promedio 7,5 años menos que los no fumadores. 
+      .col-lg-4.d-flex.mb-4.p-4
+        .row.BG04
+          .col-1.BG03.p-2
+            span.text-bold 8
+          .col-10.mb-0.p-2
+             p En las gestantes se ha reportado mayor riesgo de aborto espontáneo, desprendimiento placentario, parto pretérmino, ruptura prematura de membranas y bajo peso al nacer.  
+     
+      .col-lg-4.d-flex.mb-4.p-4
+        .row.BG04
+          .col-1.BG03.p-2
+            span.text-bold 9
+          .col-10.mb-0.p-2
+             p En niños mayor riesgo de síndrome de muerte súbita del lactante, síntomas respiratorios, infecciones respiratorias, otitis y asma. 
 
     p.mb-4 En el siguiente recurso de aprendizaje, se presenta gráficamente los daños del tabaco sobre el consumidor:
 

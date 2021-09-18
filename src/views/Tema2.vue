@@ -65,25 +65,25 @@
         .row.align-items-center.BG02
           .col-2.BG01.p-3
             img(src='@/assets/curso/tema2/img02.svg')
-          .col-10.p-3
+          .col-10.p-3.mb-0
             p Se estima que el 16,1% de todas las muertes que se registran en el país se atribuyen al tabaquismo, representando 32.088 muertes por año que podrían ser evitadas, alrededor de 88 personas diarias que pierden la vida como consecuencia del tabaquismo.
       .col-lg-10.mb-4
         .row.align-items-center.BG02
           .col-2.BG01.p-3
             img(src='@/assets/curso/tema2/img03.svg')
-          .col-10.p-3
+          .col-10.p-3.mb-0
             p El mayor peso de esta mortalidad anual está representado por las enfermedades cardiovasculares, enfermedad pulmonar obstructiva crónica y cáncer, principalmente pulmonar. El tabaquismo pasivo ocupa un lugar importante dentro del listado de mortalidad atribuible al tabaquismo.
       .col-lg-10.mb-4
         .row.align-items-center.BG02
           .col-2.BG01.p-3
             img(src='@/assets/curso/tema2/img04.svg')
-          .col-10.p-3
+          .col-10.p-3.mb-0
             p El 16% de las muertes cardiovasculares y el 13% de las producidas por accidentes cerebrovasculares pueden atribuirse al tabaquismo. Estos porcentajes son mucho más elevados en la patología respiratoria como EPOC (77%) y cáncer de pulmón (80%), debido a la asociación causal con el humo del tabaco (Peña, Osorio, Gamboa, 2019).
       .col-lg-10.mb-4
         .row.align-items-center.BG02
           .col-2.BG01.p-3
             img(src='@/assets/curso/tema2/img05.svg')
-          .col-10.p-3
+          .col-10.p-3.mb-0
             p Cada año se pierden en promedio 674.262 años de vida por muerte prematura o discapacidad (Pichon, 2013).
 
     Separador
@@ -94,14 +94,20 @@
       .col-lg-5.mb-4.mb-lg-0
         hr
         .bloque-texto-d.color-primario
-          .bloque-texto-d__texto.mb-2
-            i.fas.fa-quote-left 
-            h3.text-regular Los fumadores tienen mayor incidencia de resfriados e infecciones respiratorias como las ocasionadas por el virus influenza, neumonías bacterianas y tuberculosis, presentando una mayor posibilidad de complicaciones en las personas con un grado de tabaquismo más alto.  
-          .bloque-texto-d__autor 
-            .h5.mb-0 Tonnesen, Marott, Nordestgaard,
-            .h5.mb-0 Bojesen & Lange, 2019.
-              i.fas.fa-quote-right
-      .col-lg-4
+          .bloque-texto-d__texto.mb-2  
+            .row
+              .col-2.p-2
+                i.fas.fa-quote-left 
+              .col-10
+                h3.text-regular Los fumadores tienen mayor incidencia de resfriados e infecciones respiratorias como las ocasionadas por el virus influenza, neumonías bacterianas y tuberculosis, presentando una mayor posibilidad de complicaciones en las personas con un grado de tabaquismo más alto.  
+          .bloque-texto-d__autor
+            .row
+              .col-10.p-2
+                .h5.mb-0 Tonnesen, Marott, Nordestgaard,
+                .h5.mb-0 Bojesen & Lange, 2019.
+              .col-2
+                i.fas.fa-quote-right
+      .col-lg-3
         img.imgHG(src='@/assets/curso/tema2/img06.svg')
     
     p.mb-5 En la siguiente tabla se presentan algunas asociaciones entre el consumo de tabaco y la incidencia de cuadros respiratorios:
