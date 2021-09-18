@@ -25,29 +25,26 @@
 
     .row.justify-content-center.mb-4
       .col-lg-10.mb-4
-        .cajon.color-red.p-3
-          .row.align-items-center
-            .col-2
-              img(src='@/assets/curso/tema1/img09.svg')
-            .col-10
-              h4 Fumar tabaco
-              p Consumo de productos de tabaco fumado.
+        .row.align-items-center.BG02
+          .col-2.BG01.p-3
+            img(src='@/assets/curso/tema1/img09.svg')
+          .col-10.p-3
+            h4 Fumar tabaco
+            p Consumo de productos de tabaco fumado.
       .col-lg-10.mb-4
-        .cajon.color-red.p-3
-          .row.align-items-center
-            .col-2
-              img(src='@/assets/curso/tema1/img10.svg')
-            .col-10
-              h4 Consumidor de productos del tabaco (comúnmente denominado fumador)
-              p Persona que ha fumado tabaco durante el último mes, sin importar la cantidad, incluso uno.
+        .row.align-items-center.BG02
+          .col-2.BG01.p-3
+            img(src='@/assets/curso/tema1/img10.svg')
+          .col-10.p-3
+            h4 Consumidor de productos del tabaco (comúnmente denominado fumador)
+            p Persona que ha fumado tabaco durante el último mes, sin importar la cantidad, incluso uno.
       .col-lg-10.mb-4
-        .cajon.color-red.p-3
-          .row.align-items-center
-            .col-2
-              img(src='@/assets/curso/tema1/img11.svg')
-            .col-10
-              h4 Fumador actual
-              p Persona que ha consumido cualquier cantidad de tabaco fumado durante el último mes. 
+        .row.align-items-center.BG02
+          .col-2.BG01.p-3
+            img(src='@/assets/curso/tema1/img11.svg')
+          .col-10.p-3
+            h4 Fumador actual
+            p Persona que ha consumido cualquier cantidad de tabaco fumado durante el último mes. 
 
     Separador
     #t_1_1.titulo-segundo
