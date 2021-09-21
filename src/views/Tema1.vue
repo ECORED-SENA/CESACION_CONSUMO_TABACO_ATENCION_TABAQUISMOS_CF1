@@ -48,7 +48,7 @@
 
     Separador
     #t_1_1.titulo-segundo
-      .h4 1.1 Efectos en la salud: productos del tabaco
+      .h3 1.1 Efectos en la salud: productos del tabaco
     
     p.mb-4 Dentro de los efectos para la salud que generan los productos del tabaco sobre las personas consumidoras se encuentran los siguientes:
 
@@ -161,7 +161,7 @@
 
     Separador
     #t_1_2.titulo-segundo
-      .h4 1.2	Efectos en la salud por otros productos derivados del tabaco y sucedáneos
+      .h3 1.2	Efectos en la salud por otros productos derivados del tabaco y sucedáneos
     
     p.mb-4 Aunque los productos del tabaco sin humo se promocionan como productos más seguros que los cigarrillos combustibles también pueden generar riesgos para la salud, como el tabaco masticado, vapeado o cualquier forma de tabaco sin humo, estos pueden producir efectos en las personas que lo consumen, no existe ningún tipo de producto de tabaco que no genere riesgos para la salud.
 
@@ -185,7 +185,7 @@
 
     Separador
     #t_1_2.titulo-segundo
-      .h4 1.3	Efectos en la salud por exposición al humo del tabaco ambiental
+      .h3 1.3	Efectos en la salud por exposición al humo del tabaco ambiental
 
     p.mb-4 El tabaco es el único producto socialmente aceptado que además de generar daños en la salud de las personas que lo consumen, también es nocivo para las personas expuestas al humo del tabaco ambiental, quienes tienen mayor riesgo de desarrollar enfermedades atribuibles al tabaquismo (Drope, 2018).
     p.mb-4 En el siguiente gráfico se encuentran algunas de las enfermedades relacionadas con la exposición al humo del tabaco ambiental:

@@ -42,7 +42,7 @@
           img(src='@/assets/curso/tema1/img13.svg')
         .col-lg-6
           .titulo-segundo
-            h2 Epidemiología del tabaquismo en el mundo 
+            h4 Epidemiología del tabaquismo en el mundo 
           p.mb-4 A continuación, se presentarán algunos datos contundentes que permitirán comprender la magnitud del tabaquismo sobre la salud pública a nivel mundial y nacional:
           a.boton.me-3.indicador__container(
             :href="obtenerLink('/downloads/Epidemiologia.pdf')"
@@ -55,7 +55,7 @@
             .indicador--click(v-if="mostrarIndicador")
     Separador
     #t_2_1.titulo-segundo
-      .h4 2.1 Carga de la enfermedad atribuida al tabaquismo en Colombia
+      .h3 2.1 Carga de la enfermedad atribuida al tabaquismo en Colombia
     
     p.mb-4 El panorama del impacto del tabaquismo en Colombia no es diferente a lo que sucede a nivel mundial, siendo también una problemática de salud pública claramente identificada en la región de Las Américas y en Colombia.
     p.mb-4 La carga de la enfermedad asociada al consumo de tabaco en Colombia es muy elevada, como se puede evidenciar con los siguientes datos:
@@ -88,11 +88,12 @@
 
     Separador
     #t_2_2.titulo-segundo
-      .h4 2.2 Influencia del tabaquismo en la infección por coronavirus
+      .h3 2.2 Influencia del tabaquismo en la infección por coronavirus
     
     .row.justify-content-center.mb-4
       .col-lg-5.mb-4.mb-lg-0
-        hr
+        figure.mb-3
+          img(src='@/assets/curso/tema2/img15.svg')
         .bloque-texto-d.color-primario
           .bloque-texto-d__texto.mb-2  
             .row
