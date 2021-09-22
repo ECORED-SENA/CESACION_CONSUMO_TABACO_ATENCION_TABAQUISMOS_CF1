@@ -10,7 +10,7 @@
        
     .row.justify-content-center.mb-4
       .col-lg-10
-        .cajon.color-acento-contenido.p-4.mb-4
+        .cajon.color-acento-contenido.p-4.mb-4(data-aos="fade-up")
           .row.justify-content-center 
             .col-lg-2
               img(src='@/assets/curso/tema1/img01.svg')
@@ -25,21 +25,21 @@
 
     .row.justify-content-center.mb-4
       .col-lg-10.mb-4
-        .row.align-items-center.BG02
+        .row.align-items-center.BG02(data-aos="fade-down")
           .col-2.BG01.p-3
             img(src='@/assets/curso/tema1/img09.svg')
           .col-10.p-3.mb-0
             h4 Fumar tabaco
             p Consumo de productos de tabaco fumado.
       .col-lg-10.mb-4
-        .row.align-items-center.BG02
+        .row.align-items-center.BG02(data-aos="fade-left")
           .col-2.BG01.p-3
             img(src='@/assets/curso/tema1/img10.svg')
           .col-10.p-3.mb-0
             h4 Consumidor de productos del tabaco (comúnmente denominado fumador)
             p Persona que ha fumado tabaco durante el último mes, sin importar la cantidad, incluso uno.
       .col-lg-10.mb-4
-        .row.align-items-center.BG02
+        .row.align-items-center.BG02(data-aos="fade-right")
           .col-2.BG01.p-3
             img(src='@/assets/curso/tema1/img11.svg')
           .col-10.p-3.mb-0
@@ -152,7 +152,7 @@
           .tarjeta.color-primario.p-3(x="44%" y="58%")
             p 15. Menor resistencia a las infecciones, posible aumento de enfermedades alérgicas, deabetes, muerte súbita.
     
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade-up-right")
       .col-lg-10
         .cajon.color-primario.p-4
           p Aunque el riesgo de contraer enfermedades atribuidas al tabaquismo puede estar mediado por una relación dosis-respuesta, no hay formas ni dosis de consumo de tabaco seguras para la salud, así como tampoco hay un nivel seguro de exposición al humo de tabaco de segunda mano. 
@@ -165,7 +165,7 @@
     
     p.mb-4 Aunque los productos del tabaco sin humo se promocionan como productos más seguros que los cigarrillos combustibles también pueden generar riesgos para la salud, como el tabaco masticado, vapeado o cualquier forma de tabaco sin humo, estos pueden producir efectos en las personas que lo consumen, no existe ningún tipo de producto de tabaco que no genere riesgos para la salud.
 
-    .tarjeta.color-celeste.p-5
+    .tarjeta.color-celeste.p-5(data-aos="fade-up-left")
       .row.justify-content-center
         .col-lg-3.mb-4.mb-lg-0
           img(src='@/assets/curso/tema1/img13.svg')

@@ -11,7 +11,7 @@
     p.mb-4 En coherencia con este tratado internacional, la Asamblea General de la ONU adoptó en 2015 la Agenda 2030 para el Desarrollo Sostenible, que reconoce que las tendencias actuales de consumo de tabaco a nivel mundial no son compatibles con el desarrollo sostenible, estableciendo la meta 3.4 de los Objetivos de Desarrollo Sostenible (ODS), mediante la cual los Estados Miembros del Convenio Marco para el Control de Tabaco (CMCT) se comprometen a alcanzar una reducción de un tercio en la mortalidad prematura de enfermedades no transmisibles para el 2030.
 
     .row.justify-content-center.mb-4
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="flip-up")
         img(src='@/assets/curso/tema3/img01.svg')
       .col-lg-5.mb-4.mb-lg-0.d-flex
         .cajon.color-primario.p-4
@@ -24,7 +24,7 @@
     p.mb-4 En la siguiente imagen interactiva con las letras MPOWER se presentan las medidas, para ello dé clic en cada letra:
 
     .row.justify-content-center.mb-4
-      .col-lg-10
+      .col-lg-10(data-aos="flip-down")
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure

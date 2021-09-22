@@ -8,7 +8,7 @@
         span 2
       h1 Tabaquismo, un problema de salud pública 
     
-    .row.mb-4
+    .row.mb-4(data-aos="fade-down-right")
       .col-lg-6.mb-4.mb-lg-0.d-flex
         .cajon.color-primario.p-4
           p El tabaquismo es uno de los principales problemas de salud pública a nivel mundial, principal factor de riesgo de un importante número de enfermedades y responsable de una elevada carga de morbilidad y mortalidad como consecuencia de los efectos del tabaco sobre la salud de las personas que lo consumen y que están expuestas al humo de segunda mano. Adicionalmente, es necesario mencionar el impacto del tabaquismo sobre el desarrollo económico de los países consumidores, como consecuencia del costo derivado de la atención de las enfermedades atribuidas al tabaquismo y la mortalidad asociada.
@@ -17,7 +17,7 @@
 
     p.mb-4 En síntesis, el tabaquismo se considera un problema de salud pública porque:
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade-down-left")
       .col-lg-11
         ol.lista-ol.lista-ol--separador
           li 
@@ -62,25 +62,25 @@
 
      .row.justify-content-center.mb-4
       .col-lg-10.mb-4
-        .row.align-items-center.BG02
+        .row.align-items-center.BG02(data-aos="flip-up")
           .col-2.BG01.p-3
             img(src='@/assets/curso/tema2/img02.svg')
           .col-10.p-3.mb-0
             p Se estima que el 16,1% de todas las muertes que se registran en el país se atribuyen al tabaquismo, representando 32.088 muertes por año que podrían ser evitadas, alrededor de 88 personas diarias que pierden la vida como consecuencia del tabaquismo.
       .col-lg-10.mb-4
-        .row.align-items-center.BG02
+        .row.align-items-center.BG02(data-aos="flip-down")
           .col-2.BG01.p-3
             img(src='@/assets/curso/tema2/img03.svg')
           .col-10.p-3.mb-0
             p El mayor peso de esta mortalidad anual está representado por las enfermedades cardiovasculares, enfermedad pulmonar obstructiva crónica y cáncer, principalmente pulmonar. El tabaquismo pasivo ocupa un lugar importante dentro del listado de mortalidad atribuible al tabaquismo.
       .col-lg-10.mb-4
-        .row.align-items-center.BG02
+        .row.align-items-center.BG02(data-aos="flip-left")
           .col-2.BG01.p-3
             img(src='@/assets/curso/tema2/img04.svg')
           .col-10.p-3.mb-0
             p El 16% de las muertes cardiovasculares y el 13% de las producidas por accidentes cerebrovasculares pueden atribuirse al tabaquismo. Estos porcentajes son mucho más elevados en la patología respiratoria como EPOC (77%) y cáncer de pulmón (80%), debido a la asociación causal con el humo del tabaco (Peña, Osorio, Gamboa, 2019).
       .col-lg-10.mb-4
-        .row.align-items-center.BG02
+        .row.align-items-center.BG02(data-aos="flip-right")
           .col-2.BG01.p-3
             img(src='@/assets/curso/tema2/img05.svg')
           .col-10.p-3.mb-0
@@ -113,7 +113,7 @@
     
     p.mb-5 En la siguiente tabla se presentan algunas asociaciones entre el consumo de tabaco y la incidencia de cuadros respiratorios:
     
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="slide-up")
       .col-lg-7
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1
@@ -137,7 +137,7 @@
     
     p.mb-4 OR (Odds Ratio) su traducción al español es razón de momios o razón de probabilidades, se define como la posibilidad que una condición de salud o enfermedad se presente en un grupo de población frente al riesgo que ocurra en otro, por ejemplo, la probabilidad de que ocurra neumonía en un fumador es 2,4 veces mayor que en un no fumador.
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="slide-down")
       .col-lg-9
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
@@ -148,7 +148,7 @@
 
     .h4 ¿Cuál es la relación entre la COVID-19 y el tabaquismo?
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="slide-left")
       .col-lg-6
         .tarjeta-avatar
             img(src='@/assets/curso/tema2/img08.svg' alt='AvatarTop')
@@ -164,7 +164,7 @@
 
     .h4.mb-4 Medidas de control de tabaco en el marco de la pandemia
 
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="slide-right")
       .col-lg-6
         .bloque-texto-d.color-primario.p-3
           .bloque-texto-d__texto.mb-2

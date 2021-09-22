@@ -23,7 +23,7 @@
             span.text-bold c. 
             | Porque los índices de abordaje del tabaquismo en los servicios de atención primaria siguen siendo muy bajos, pese a la evidencia en la efectividad de intervenciones para la cesación del tabaco. Solo la mitad de los fumadores reportaron que sus médicos les preguntaron sobre el consumo de tabaco y de estos, menos de la mitad refirieron haber recibido consejería para la cesación.
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="flip-left")
       .col-lg-10
         .cajon.color-primario.p-4
           .row.align-items-center
@@ -35,7 +35,7 @@
 
     p.mb-4 Los médicos como profesionales respetados y de mayor confianza para el paciente fumador tienden a asistir más a los pacientes con sintomatología evidente relacionada con el consumo del cigarrillo o tabaco, y más a grandes fumadores que a fumadores ocasionales, también se encontró que es más probable que los médicos ofrezcan consejería para cesación si han recibido formación específica. Asimismo, los médicos fumadores tienden a aconsejar menos dejar de fumar que los no fumadores.
 
-    figure.mb-4
+    figure.mb-4(data-aos="flip-right")
       img(src='@/assets/curso/tema4/img02.png')  
     
     p.mb-4 En cuanto a la percepción de los profesionales de la salud respecto al hecho de ser modelos para sus pacientes se ha reportado niveles moderados de percepción frente a este ítem, encontrando, por ejemplo, en Chile, que el 68,8% de los estudiantes de profesiones de la salud se perciben como modelos para sus pacientes y la comunidad (Burgos, Zitko, Guerrero & Alfaro, 2008). En Colombia, según el estudio de Robayo & Uribe (2018), el 86,5% de una población de médicos colombianos se percibe como un modelo para sus familias y comunidades.
@@ -43,7 +43,7 @@
     .h4 ¿Cuál es el rol de los profesionales de la salud en el control del tabaco?
 
     .row.justify-content-center.mb-4
-      .col-lg-4
+      .col-lg-4(data-aos="slide-up")
         img(src='@/assets/curso/tema4/img03.svg')
       .col-lg-7
         .bloque-texto-b.color-primario.p-4
