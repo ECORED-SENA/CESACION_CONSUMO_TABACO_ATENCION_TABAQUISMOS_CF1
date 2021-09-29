@@ -159,7 +159,7 @@ export default {
         'https://files.tobaccoatlas.org/wp-content/uploads/2018/03/TobaccoAtlas_6thEdition_LoRes.pdf',
     },
     {
-      referencia: 'GreenFacts. (s.f).Tabaquismo pasivo. GreenFacts.',
+      referencia: 'GreenFacts. (s.f). Tabaquismo pasivo. GreenFacts.',
       link: 'https://www.greenfacts.org/es/glosario/tuv/tabaquismo-pasivo.htm',
     },
     {

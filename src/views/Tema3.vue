@@ -18,7 +18,7 @@
           <br><br><br>
           p El control del tabaco se constituye entonces como un medio para mejorar la salud de la población, reducir las desigualdades y fomentar el desarrollo sostenible en los países que son parte del Convenio Marco y requiere de un trabajo articulado y multisectorial.
     
-    p.mb-5 El Convenio Marco de la Organización Mundial de la Salud para el Control de Tabaco (CMCT de la OMS) es el primer tratado negociado bajo los auspicios de la OMS, reafirmando el derecho de todas las personas al máximo nivel de salud posible como respuesta a la globalización de la epidemia del tabaquismo; se firmó en 2003 por 168 Estados miembros que representan el 90% de la población mundial.
+    p.mb-5 El Convenio Marco de la Organización Mundial de la Salud para el Control de Tabaco (CMCT de la OMS) es el primer tratado negociado bajo los auspicios de la OMS, reafirmando el derecho de todas las personas al máximo nivel de salud posible como respuesta a la globalización de la epidemia del tabaquismo; se firmó en 2003 por 168 Estados miembros que representan el 90 % de la población mundial.
     .h4.mb-5 Plan de medidas MPOWER
     p.mb-4 El Convenio Marco para el Control del Tabaco (CMCT) ofrece una estrategia organizada para dar respuesta a la epidemia del tabaquismo. La OMS ha diseñado un plan de medidas denominado MPOWER por sus siglas en inglés, cuya finalidad es reducir el consumo de tabaco a nivel mundial a través de la aplicación de políticas e intervenciones de control del tabaco de eficacia demostrada y observables en el tiempo (Organización Panamericana de la Salud OPS y Organización Mundial de la Salud OMS, 2016).
     p.mb-4 En la siguiente imagen interactiva con las letras MPOWER se presentan las medidas, para ello dé clic en cada letra:
@@ -62,7 +62,7 @@
             .col-md-2
               img(src='@/assets/curso/tema3/img03.svg')
             .col-md-6.mb-4.mb-md-0
-              p.text-small Ley 1109 de 2006 en la que se aprueba el Convenio Marco de la OMS para el control del tabaco", hecho en Ginebra, el 21 de mayo de 2003.
+              p.text-small Ley 1109 de 2006 en la que se aprueba el "Convenio Marco de la OMS para el control del tabaco", hecho en Ginebra, el 21 de mayo de 2003.
           .row(numero="2009" titulo="Ley 1335 de 2009")
             .col-md-2
               img(src='@/assets/curso/tema3/img03.svg')

@@ -55,7 +55,7 @@
             .indicador--click(v-if="mostrarIndicador")
     Separador
     #t_2_1.titulo-segundo
-      .h3 2.1 Carga de la enfermedad atribuida al tabaquismo en Colombia
+      .h3 2.1 Carga de enfermedad atribuida al tabaquismo en Colombia
     
     p.mb-4 El panorama del impacto del tabaquismo en Colombia no es diferente a lo que sucede a nivel mundial, siendo también una problemática de salud pública claramente identificada en la región de Las Américas y en Colombia.
     p.mb-4 La carga de la enfermedad asociada al consumo de tabaco en Colombia es muy elevada, como se puede evidenciar con los siguientes datos:
@@ -66,7 +66,7 @@
           .col-2.BG01.p-3
             img(src='@/assets/curso/tema2/img02.svg')
           .col-10.p-3.mb-0
-            p Se estima que el 16,1% de todas las muertes que se registran en el país se atribuyen al tabaquismo, representando 32.088 muertes por año que podrían ser evitadas, alrededor de 88 personas diarias que pierden la vida como consecuencia del tabaquismo.
+            p Se estima que el 16,1 % de todas las muertes que se registran en el país se atribuyen al tabaquismo, representando 32.088 muertes por año que podrían ser evitadas, alrededor de 88 personas diarias que pierden la vida como consecuencia del tabaquismo.
       .col-lg-10.mb-4
         .row.align-items-center.BG02(data-aos="flip-down")
           .col-2.BG01.p-3
@@ -78,7 +78,7 @@
           .col-2.BG01.p-3
             img(src='@/assets/curso/tema2/img04.svg')
           .col-10.p-3.mb-0
-            p El 16% de las muertes cardiovasculares y el 13% de las producidas por accidentes cerebrovasculares pueden atribuirse al tabaquismo. Estos porcentajes son mucho más elevados en la patología respiratoria como EPOC (77%) y cáncer de pulmón (80%), debido a la asociación causal con el humo del tabaco (Peña, Osorio, Gamboa, 2019).
+            p El 16 % de las muertes cardiovasculares y el 13 % de las producidas por accidentes cerebrovasculares pueden atribuirse al tabaquismo. Estos porcentajes son mucho más elevados en la patología respiratoria como EPOC (77 %) y cáncer de pulmón (80 %), debido a la asociación causal con el humo del tabaco (Peña, Osorio, Gamboa, 2019).
       .col-lg-10.mb-4
         .row.align-items-center.BG02(data-aos="flip-right")
           .col-2.BG01.p-3
@@ -206,7 +206,7 @@
               img(src='@/assets/curso/tema2/img14.svg')
           .h1 04
           .h2 Promover
-          p Promover ambientes públicos y privados 100% libres de humo de tabaco.
+          p Promover ambientes públicos y privados 100 % libres de humo de tabaco.
 
 </template>
 

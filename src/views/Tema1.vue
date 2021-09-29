@@ -122,9 +122,9 @@
               img(src='@/assets/curso/tema1/img12.svg')
 
           .tarjeta.color-primario.p-3(x="56%" y="6%")
-            p 1. Caida del cabello, cataratas, ceguera, arrugas, apoplejía, derrame cerebral, adicción/abstinencia, química cerebral alterada, ansiedad. La nicotina penetra rápidamente en el cerebro estimulando la liberación de vasopresina, hormona del crecimiento, prolactina y opioides endógenos, influyendo en el estado emocional.
+            p 1. Caída del cabello, cataratas, ceguera, arrugas, apoplejía, derrame cerebral, adicción/abstinencia, química cerebral alterada, ansiedad. La nicotina penetra rápidamente en el cerebro estimulando la liberación de vasopresina, hormona del crecimiento, prolactina y opioides endógenos, influyendo en el estado emocional.
           .tarjeta.color-primario.p-3(x="56%" y="11%")
-            p 2. Deterioro de la dentadura, cáncer de boca y/o garganta, pigmentación dentaria, gingivitis y periodontitis, leucoplasia, estomatitis nicotínica, pérdida de dientes, caríes de cuelloradiculares, cáncer de cavidades nasales y senos paranasales, rinosinusitis crónica, deterioro del  sentido del olfato, pérdida de audición.
+            p 2. Deterioro de la dentadura, cáncer de boca y/o garganta, pigmentación dentaria, gingivitis y periodontitis, leucoplasia, estomatitis nicotínica, pérdida de dientes, caries de cuello radiculares, cáncer de cavidades nasales y senos paranasales, rinosinusitis crónica, deterioro del  sentido del olfato, pérdida de audición.
           .tarjeta.color-primario.p-3(x="56%" y="16%")
             p 3. Cáncer de labios, boca, garganta, faringe, y/o laringe, sentido del gusto deteriorado, halitosis.
           .tarjeta.color-primario.p-3(x="56%" y="21%")
@@ -132,23 +132,23 @@
           .tarjeta.color-primario.p-3(x="56%" y="25%")
             p 5. Trombosis coronaria (ataque cardíaco), cardiopatías, aterosclerosis,  cáncer de esófago, gástrico, de colon y pancreático, aneurisma aórtico abdominal, úlcera péptica.
           .tarjeta.color-primario.p-3(x="79%" y="29%")
-            p 6. Osteopososis, psoriasis, pérdida del tono de la piel, envejecimiento prematuro.
+            p 6. Osteoporosis, psoriasis, pérdida del tono de la piel, envejecimiento prematuro.
           .tarjeta.color-primario.p-3(x="56%" y="33%")
             p 7. Cáncer de páncreas, úlcera gástrica.
           .tarjeta.color-primario.p-3(x="56%" y="38%")
             p 8. Cáncer de riños y ureteres, cáncer de hígado.
           .tarjeta.color-primario.p-3(x="56%" y="46%")
-            p 9. Cácer de aparato urinario, infertilidad, impotencia, deformación de espermatozoides, cáncer de utero, muerte por cáncer de prostata, desórdenes menstruales y dolorosos,  cáncer de cuello uterino y ovario, menopausia precoz, aborto.
+            p 9. Cácer de aparato urinario, infertilidad, impotencia, deformación de espermatozoides, cáncer de útero, muerte por cáncer de próstata, desórdenes menstruales y dolorosos,  cáncer de cuello uterino y ovario, menopausia precoz, aborto.
           .tarjeta.color-primario.p-3(x="64%" y="58%")
             p 10. Psoriasis.
           .tarjeta.color-primario.p-3(x="82%" y="54%")
-            p 11. Discrómía de los dedos, enfermedad periférica, mala circulación (dedos fríos).
+            p 11. Discronía de los dedos, enfermedad periférica, mala circulación (dedos fríos).
           .tarjeta.color-primario.p-3(x="66%" y="80%")
             p 12. Enfermedad de Buerger.
           .tarjeta.color-primario.p-3(x="45%" y="80%")
             p 13. Causa una marcada depresión de los reflejos osteotendinosos y aumenta el tono muscular general, osteoporosis, artritis reumatoide, enfermedad periférica vascular, dolor de piernas, gangrena, trombosis venosa profunda.
           .tarjeta.color-primario.p-3(x="45%" y="68%")
-            p 14. Cáncer de medula osea, problemas de cicatrización, mala recuperación post-quirúrgica.
+            p 14. Cáncer de médula ósea, problemas de cicatrización, mala recuperación post-quirúrgica.
           .tarjeta.color-primario.p-3(x="44%" y="58%")
             p 15. Menor resistencia a las infecciones, posible aumento de enfermedades alérgicas, deabetes, muerte súbita.
     
@@ -184,7 +184,7 @@
             .indicador--click(v-if="mostrarIndicador")
 
     Separador
-    #t_1_2.titulo-segundo
+    #t_1_3.titulo-segundo
       .h3 1.3	Efectos en la salud por exposición al humo del tabaco ambiental
 
     p.mb-4 El tabaco es el único producto socialmente aceptado que además de generar daños en la salud de las personas que lo consumen, también es nocivo para las personas expuestas al humo del tabaco ambiental, quienes tienen mayor riesgo de desarrollar enfermedades atribuibles al tabaquismo (Drope, 2018).

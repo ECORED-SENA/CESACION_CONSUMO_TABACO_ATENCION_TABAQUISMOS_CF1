@@ -38,12 +38,12 @@
     figure.mb-4(data-aos="flip-right")
       img(src='@/assets/curso/tema4/img02.png')  
     
-    p.mb-4 En cuanto a la percepción de los profesionales de la salud respecto al hecho de ser modelos para sus pacientes se ha reportado niveles moderados de percepción frente a este ítem, encontrando, por ejemplo, en Chile, que el 68,8% de los estudiantes de profesiones de la salud se perciben como modelos para sus pacientes y la comunidad (Burgos, Zitko, Guerrero & Alfaro, 2008). En Colombia, según el estudio de Robayo & Uribe (2018), el 86,5% de una población de médicos colombianos se percibe como un modelo para sus familias y comunidades.
+    p.mb-4 En cuanto a la percepción de los profesionales de la salud respecto al hecho de ser modelos para sus pacientes se ha reportado niveles moderados de percepción frente a este ítem, encontrando, por ejemplo, en Chile, que el 68,8 % de los estudiantes de profesiones de la salud se perciben como modelos para sus pacientes y la comunidad (Burgos, Zitko, Guerrero & Alfaro, 2008). En Colombia, según el estudio de Robayo & Uribe (2018), el 86,5 % de una población de médicos colombianos se percibe como un modelo para sus familias y comunidades.
 
     .h4 ¿Cuál es el rol de los profesionales de la salud en el control del tabaco?
 
     .row.justify-content-center.mb-4
-      .col-lg-4(data-aos="slide-up")
+      .col-lg-4
         img(src='@/assets/curso/tema4/img03.svg')
       .col-lg-7
         .bloque-texto-b.color-primario.p-4
