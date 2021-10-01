@@ -122,35 +122,35 @@
               img(src='@/assets/curso/tema1/img12.svg')
 
           .tarjeta.color-primario.p-3(x="56%" y="6%")
-            p 1. Caída del cabello, cataratas, ceguera, arrugas, apoplejía, derrame cerebral, adicción/abstinencia, química cerebral alterada, ansiedad. La nicotina penetra rápidamente en el cerebro estimulando la liberación de vasopresina, hormona del crecimiento, prolactina y opioides endógenos, influyendo en el estado emocional.
+            p #[strong 1.] Caída del cabello, cataratas, ceguera, arrugas, apoplejía, derrame cerebral, adicción/abstinencia, química cerebral alterada, ansiedad. La nicotina penetra rápidamente en el cerebro estimulando la liberación de vasopresina, hormona del crecimiento, prolactina y opioides endógenos, influyendo en el estado emocional.
           .tarjeta.color-primario.p-3(x="56%" y="11%")
-            p 2. Deterioro de la dentadura, cáncer de boca y/o garganta, pigmentación dentaria, gingivitis y periodontitis, leucoplasia, estomatitis nicotínica, pérdida de dientes, caries de cuello radiculares, cáncer de cavidades nasales y senos paranasales, rinosinusitis crónica, deterioro del  sentido del olfato, pérdida de audición.
+            p #[strong 2.] Deterioro de la dentadura, cáncer de boca y/o garganta, pigmentación dentaria, gingivitis y periodontitis, leucoplasia, estomatitis nicotínica, pérdida de dientes, caries de cuello radiculares, cáncer de cavidades nasales y senos paranasales, rinosinusitis crónica, deterioro del  sentido del olfato, pérdida de audición.
           .tarjeta.color-primario.p-3(x="56%" y="16%")
-            p 3. Cáncer de labios, boca, garganta, faringe, y/o laringe, sentido del gusto deteriorado, halitosis.
+            p #[strong 3.] Cáncer de labios, boca, garganta, faringe, y/o laringe, sentido del gusto deteriorado, halitosis.
           .tarjeta.color-primario.p-3(x="56%" y="21%")
-            p 4. Cáncer de pulmón, bronquiso y tráquea,  posible aumento de cáncer de seno, síntomas respiratorios crónicos, enfermedad pulmonar obstructiva crónica y efisema, infección respiratoria, falta de aire, asma, tos crónica, producción excesiva de esputo.
+            p #[strong 4.] Cáncer de pulmón, bronquiso y tráquea,  posible aumento de cáncer de seno, síntomas respiratorios crónicos, enfermedad pulmonar obstructiva crónica y efisema, infección respiratoria, falta de aire, asma, tos crónica, producción excesiva de esputo.
           .tarjeta.color-primario.p-3(x="56%" y="25%")
-            p 5. Trombosis coronaria (ataque cardíaco), cardiopatías, aterosclerosis,  cáncer de esófago, gástrico, de colon y pancreático, aneurisma aórtico abdominal, úlcera péptica.
+            p #[strong 5.] Trombosis coronaria (ataque cardíaco), cardiopatías, aterosclerosis,  cáncer de esófago, gástrico, de colon y pancreático, aneurisma aórtico abdominal, úlcera péptica.
           .tarjeta.color-primario.p-3(x="79%" y="29%")
-            p 6. Osteoporosis, psoriasis, pérdida del tono de la piel, envejecimiento prematuro.
+            p #[strong 6.] Osteoporosis, psoriasis, pérdida del tono de la piel, envejecimiento prematuro.
           .tarjeta.color-primario.p-3(x="56%" y="33%")
-            p 7. Cáncer de páncreas, úlcera gástrica.
+            p #[strong 7.] Cáncer de páncreas, úlcera gástrica.
           .tarjeta.color-primario.p-3(x="56%" y="38%")
-            p 8. Cáncer de riños y ureteres, cáncer de hígado.
+            p #[strong 8.] Cáncer de riños y ureteres, cáncer de hígado.
           .tarjeta.color-primario.p-3(x="56%" y="46%")
-            p 9. Cácer de aparato urinario, infertilidad, impotencia, deformación de espermatozoides, cáncer de útero, muerte por cáncer de próstata, desórdenes menstruales y dolorosos,  cáncer de cuello uterino y ovario, menopausia precoz, aborto.
+            p #[strong 9.] Cáncer de aparato urinario, infertilidad, impotencia, deformación de espermatozoides, cáncer de útero, muerte por cáncer de próstata, desórdenes menstruales y dolorosos,  cáncer de cuello uterino y ovario, menopausia precoz, aborto.
           .tarjeta.color-primario.p-3(x="64%" y="58%")
-            p 10. Psoriasis.
+            p #[strong 10.] Psoriasis.
           .tarjeta.color-primario.p-3(x="82%" y="54%")
-            p 11. Discronía de los dedos, enfermedad periférica, mala circulación (dedos fríos).
+            p #[strong 11.] Discronía de los dedos, enfermedad periférica, mala circulación (dedos fríos).
           .tarjeta.color-primario.p-3(x="66%" y="80%")
-            p 12. Enfermedad de Buerger.
+            p #[strong 12.] Enfermedad de Buerger.
           .tarjeta.color-primario.p-3(x="45%" y="80%")
-            p 13. Causa una marcada depresión de los reflejos osteotendinosos y aumenta el tono muscular general, osteoporosis, artritis reumatoide, enfermedad periférica vascular, dolor de piernas, gangrena, trombosis venosa profunda.
+            p #[strong 13.] Causa una marcada depresión de los reflejos osteotendinosos y aumenta el tono muscular general, osteoporosis, artritis reumatoide, enfermedad periférica vascular, dolor de piernas, gangrena, trombosis venosa profunda.
           .tarjeta.color-primario.p-3(x="45%" y="68%")
-            p 14. Cáncer de médula ósea, problemas de cicatrización, mala recuperación post-quirúrgica.
+            p #[strong 14.] Cáncer de médula ósea, problemas de cicatrización, mala recuperación post-quirúrgica.
           .tarjeta.color-primario.p-3(x="44%" y="58%")
-            p 15. Menor resistencia a las infecciones, posible aumento de enfermedades alérgicas, deabetes, muerte súbita.
+            p #[strong 15.] Menor resistencia a las infecciones, posible aumento de enfermedades alérgicas, deabetes, muerte súbita.
     
     .row.justify-content-center.mb-4(data-aos="fade-up-right")
       .col-lg-10
