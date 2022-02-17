@@ -106,11 +106,7 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -332,6 +328,17 @@ export default {
         cargo: 'Diseñadora y evaluadora instruccional',
         centro:
           'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'Yolanda Ines Sandoval Gil',
+        cargo: 'Profesional Especializado',
+        centro:
+          'Ministerio de Salud y Protección Social – Subdirección de Enfermedades No Transmisibles',
+      },
+      {
+        nombre: 'Nelci Becerra Martínez',
+        cargo: 'Asesora',
+        centro: 'Organización Panamericana de la Salud - Proyecto FCTC 2030',
       },
     ],
     desarrolloProducto: [
